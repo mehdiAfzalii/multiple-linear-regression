@@ -1,6 +1,4 @@
-# prompt: dor this code write read.md file
 
-%%writefile README.md
 # Linear Regression Model for Advertising Sales Prediction
 
 This repository contains a Python script that implements a linear regression model to predict sales based on advertising spending.
